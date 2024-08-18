@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ambanis: Meet the tycoons behind the grand Indian wedding",
+      "description": "For Mukesh Ambani, his son's wedding is not just a wedding - it's a display of his clout and power.",
+      "url": "https://www.bbc.co.uk/news/articles/c51yp353g0ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/126c/live/99194730-4040-11ef-96a8-e710c6bfc866.jpg",
+      "publishedAt": "2024-07-14T10:37:10.898915Z",
+      "content": "For the last few months, Asias richest man Mukesh Ambani has been grabbing the spotlight in India.\r\nIt's not because he has completed a major acquisition or cut a big philanthropic cheque, but it's h… [+1569 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kenyan police find dismembered bodies at Nairobi dump",
+      "description": "The discovery comes just a day after the remains of six women were found at the dump by police.",
+      "url": "https://www.bbc.co.uk/news/articles/c51y21lz606o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67d8/live/99ba0ba0-415f-11ef-83c5-4723121a419d.jpg",
+      "publishedAt": "2024-07-14T10:22:15.5572298Z",
+      "content": "Human rights groups have accused police of shooting dozens of people who were demonstrating against planned tax rises, some of them fatally, and abducting or arbitrarily arresting hundreds more.\r\nLoc… [+2342 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "America's Sweethearts: Life after Dallas Cowboys Cheerleaders",
+      "description": "A new hit Netflix series shows the pressure on members of the Dallas Cowboys Cheerleaders.",
+      "url": "https://www.bbc.co.uk/news/articles/cqv548yny18o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a015/live/4f1a1710-4061-11ef-96a8-e710c6bfc866.jpg",
+      "publishedAt": "2024-07-14T09:22:12.9971707Z",
+      "content": "After watching the show, does Ariana think there should have been a height restriction?\r\n\"Had I known even going in the first year that height was a concern, I probably wouldn't have tried out for Co… [+748 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Alec Baldwin's Rust manslaughter case dismissed",
+      "description": "The actor weeps as the trial collapses with a prosecutor quitting amid a row over a batch of bullets.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8290qn0n5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/340e/live/fffb2ac0-40ba-11ef-96a8-e710c6bfc866.jpg",
+      "publishedAt": "2024-07-14T09:07:11.8392407Z",
+      "content": "Alec Baldwin broke down in tears as a New Mexico judge dismissed the involuntary manslaughter case against him for a fatal shooting on the set of the film Rust. \r\nThe trial collapsed three days into … [+1829 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump rally: American politics enters a dark and dangerous new chapter",
+      "description": "The illusion of security and safety in American politics – built over decades - has been dramatically shattered.",
+      "url": "https://www.bbc.co.uk/news/articles/c1vdq5wy4kwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddce/live/31db44b0-4199-11ef-866d-756685558561.jpg",
+      "publishedAt": "2024-07-14T05:07:13.0579397Z",
+      "content": "It is difficult to predict the impact Saturdays events will have on America - and its political discourse. Already, there have been some bipartisan calls for a cooling of rhetoric and national unity.… [+1543 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kenyan finance bill protesters take on Christian leaders",
+      "description": "Why the youth protests against planned tax increases have served as a wake-up call for the Church.",
+      "url": "https://www.bbc.co.uk/news/articles/czq60w351zjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a1d4/live/d15df1c0-4187-11ef-9b29-d1a5b7682fe2.jpg",
+      "publishedAt": "2024-07-14T04:07:12.9327854Z",
+      "content": "In Kenya, the youth protests against planned tax increases have served as a wake-up call for the Church.\r\nTheyve shaken up a powerful institution, in a country where more than 80% of the population, … [+1684 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump rally: Shocking act will reshape the presidential race",
+      "description": "Already, we can see the battlelines being drawn in what may become a very ugly fight over a deeply shocking incident.",
+      "url": "https://www.bbc.co.uk/news/articles/c0359j43d78o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3d8a/live/bdc92b10-4188-11ef-9b29-d1a5b7682fe2.jpg",
+      "publishedAt": "2024-07-14T03:07:12.6665701Z",
+      "content": "The extraordinary images of a defiant Donald Trump pumping his fist in the air, with blood on his face, being rushed off the stage by the Secret Service are not just history-making they may well alte… [+2073 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump rally: Witness says he saw gunman minutes before shots fired",
+      "description": "Greg, who was outside the rally, tells the BBC he tried to alert the police.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4v7v2g5l1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7ec/live/965229b0-4179-11ef-9e1c-3b4a473456a6.jpg",
+      "publishedAt": "2024-07-14T01:22:13.1617076Z",
+      "content": "Greg was listening from outside the rally and said he saw the gunman around five minutes into Mr Trump's speech.\r\n\"We noticed the guy bear-crawling up the roof of the building beside us, 50ft away,\" … [+992 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "In pictures: Trump injured as shots fired at rally",
+      "description": "Donald Trump rushed off stage during a rally in Butler, Pennsylvania after loud bangs were heard",
+      "url": "https://www.bbc.co.uk/news/articles/cx7292y32yjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b97a/live/b28159f0-4177-11ef-9e1c-3b4a473456a6.jpg",
+      "publishedAt": "2024-07-14T00:37:15.211779Z",
+      "content": "Donald Trump was rushed off stage during a rally in Butler, Pennsylvania after gun shots were heard.\r\nThe Republican candidate for president dropped to the ground and was seen with blood on the side … [+337 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump rushed off stage at Pennsylvania rally",
+      "description": "Sharp bangs were heard as the Republican addressed supporters in Pennsylvania.",
+      "url": "https://www.bbc.co.uk/news/articles/cd1d31jeyzlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d328/live/08b13f20-4169-11ef-9ebd-b57f734b22cc.png",
+      "publishedAt": "2024-07-13T22:52:15.1463713Z",
+      "content": "Secret Service agents have rushed former President Donald Trump off stage after loud noises rang out at a rally in Pennsylvania.\r\nFootage showed Trump ducking as sharp cracks - apparently shots - bro… [+556 chars]"
+    }
+  ]
+}
